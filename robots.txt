@@ -1,0 +1,7 @@
+User-agent: Twitterbot
+Allow: /
+Disallow: /private/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /private/
